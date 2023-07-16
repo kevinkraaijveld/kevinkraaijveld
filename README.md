@@ -54,6 +54,15 @@ As a software developer, I am responsible for designing, developing, and impleme
 
 </p>
 
+## Recent Projects
+
+Here are some of my recent projects:
+
+- [22-export](https://github.com/kevinkraaijveld/22-export) - A utility for exporting data in various formats.
+- [23-lingo](https://github.com/kevinkraaijveld/23-lingo) - A simple word guessing game implemented in HTML, CSS, and JavaScript.
+- [24-Beautifier](https://github.com/kevinkraaijveld/24-Beautifier) - A web-based tool for beautifying and formatting HTML code.
+
+
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=kevinkraaijveld)
