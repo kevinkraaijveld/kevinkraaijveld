@@ -62,7 +62,6 @@ Here are some of my recent projects:
 - [23-lingo](https://github.com/kevinkraaijveld/23-lingo) - A simple word guessing game implemented in HTML, CSS, and JavaScript.
 - [24-Beautifier](https://github.com/kevinkraaijveld/24-Beautifier) - A web-based tool for beautifying and formatting HTML code.
 
-
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=kevinkraaijveld)
 
